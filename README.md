@@ -13,7 +13,7 @@ SPDX-License-Identifier: GPL-3.0-or-later
 
 <h4 align="center"><b>Nuzu</b> is an open-source Nintendo Switch emulator, designed for legal usage, and developed with portability in mind.
 <br>
-It is written in C++ and actively maintained for Windows, Linux, and Android platforms.
+It is written in C++ and actively maintained for Windows and Linux platforms.
 </h4>
 
 <p align="center">
