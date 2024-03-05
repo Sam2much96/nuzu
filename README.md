@@ -57,8 +57,7 @@ You can download the latest releases automatically via the installer on our [Dow
 ## Support
 
 If you appreciate our work and would like to support us financially, consider becoming a Patreon supporter!
-(NOT A REAL LINK)
-<a href="https://www.patreon.com/nuzuteam">
+<a href="https://www.patreon.com/nuzuTeam">
     <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
 </a>
 
